@@ -1,4 +1,4 @@
-## IMDB Dataset Analysis
+## IMDb Dataset Analysis
 
 ## Overview
 
